@@ -1,5 +1,6 @@
-# Nevergrove VSCode
+# <img src="logo.png" width="32" /> Nevergrove VSCode
 ###### The four variants of the Nevergrove color palette brought straight into your VSCode.
+Nevergrove is an everforest-inspired color palette designed to be soft, yet vibrant and provide the right amount of contrast without causing strain on your eyes.
 
 ### Testing, packaging and installing locally
 Development versions can be tested by cloning this repo, opening it in vscode and pressing `f5`. An easier but still way too convoluted way is cloning the [parent palette repo](https://github.com/IcaroJam/nevergrove) directly and modifying `vscode/themeSrc.jsonc`, then running the `updateVars.sh` script.

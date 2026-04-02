@@ -1,36 +1,57 @@
 {
-  "name": "nevergrove",
-  "displayName": "Nevergrove",
-  "description": "",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.110.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "Nevergrove Aspen",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nevergrove-aspen-color-theme.json"
-      },
-      {
-        "label": "Nevergrove Eucalyptus",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nevergrove-eucalyptus-color-theme.json"
-      },
-      {
-        "label": "Nevergrove Jacaranda",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nevergrove-jacaranda-color-theme.json"
-      },
-      {
-        "label": "Nevergrove Maple",
-        "uiTheme": "vs-dark",
-        "path": "./themes/nevergrove-maple-color-theme.json"
-      }
-    ]
-  }
+	"name": "nevergrove",
+	"displayName": "Nevergrove",
+	"description": "A soft yet vibrant color scheme with enough contrast.",
+	"version": "0.0.2",
+	"publisher": "Nafnec",
+	"author": {
+		"name": "Nafnec",
+		"url": "https://github.com/IcaroJam/"
+	},
+	"icon": "logo.png",
+	"homepage": "https://github.com/IcaroJam/nevergrove-vscode",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/IcaroJam/nevergrove-vscode.git"
+	},
+	"bugs": {
+		"url": "https://github.com/IcaroJam/nevergrove-vscode/issues"
+	},
+	"engines": {
+		"vscode": "^1.110.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"keywords": [
+		"purple",
+		"red",
+		"teal",
+		"yellow",
+		"theme"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Nevergrove Aspen",
+				"uiTheme": "vs-dark",
+				"path": "./themes/nevergrove-aspen-color-theme.json"
+			},
+			{
+				"label": "Nevergrove Eucalyptus",
+				"uiTheme": "vs-dark",
+				"path": "./themes/nevergrove-eucalyptus-color-theme.json"
+			},
+			{
+				"label": "Nevergrove Jacaranda",
+				"uiTheme": "vs-dark",
+				"path": "./themes/nevergrove-jacaranda-color-theme.json"
+			},
+			{
+				"label": "Nevergrove Maple",
+				"uiTheme": "vs-dark",
+				"path": "./themes/nevergrove-maple-color-theme.json"
+			}
+		]
+	}
 }
