@@ -2,12 +2,13 @@
 	"name": "nevergrove",
 	"displayName": "Nevergrove",
 	"description": "A soft yet vibrant color scheme with enough contrast.",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"publisher": "Nafnec",
 	"author": {
 		"name": "Nafnec",
 		"url": "https://github.com/IcaroJam/"
 	},
+	"license":"GPL-3.0-only",
 	"icon": "logo.png",
 	"homepage": "https://github.com/IcaroJam/nevergrove-vscode",
 	"repository": {
@@ -30,6 +31,11 @@
 		"yellow",
 		"theme"
 	],
+	"capabilities": {
+		"untrustedWorkspaces": {
+			"supported": true
+		}
+	},
 	"contributes": {
 		"themes": [
 			{
