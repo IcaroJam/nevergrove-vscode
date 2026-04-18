@@ -17,16 +17,16 @@ Nevergrove is an [everforest](https://github.com/sainnhe/everforest)-inspired co
 Nevergrove comes in four variants, each centered around a main accent and a secondary inverse accent for contrast on elements that require your attention.
 
 ### Maple - Red
-![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/imgs/maple.png)
+![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/imgs/vscode/maple.png)
 
 ### Aspen - Yellow
-![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/imgs/aspen.png)
+![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/imgs/vscode/aspen.png)
 
 ### Eucalyptus - Teal
-![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/imgs/eucalyptus.png)
+![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/imgs/vscode/eucalyptus.png)
 
 ### Jacaranda - Purple
-![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/imgs/jacaranda.png)
+![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/imgs/vscode/jacaranda.png)
 
 
 ## Version Disclaimer
