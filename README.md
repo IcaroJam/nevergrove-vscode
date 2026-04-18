@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/dev/imgs/logo.png" width="128" />
+	<img src="https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/imgs/logo.png" width="128" />
 	<br>
 	Nevergrove VSCode
 </h3>
@@ -17,16 +17,16 @@ Nevergrove is an [everforest](https://github.com/sainnhe/everforest)-inspired co
 Nevergrove comes in four variants, each centered around a main accent and a secondary inverse accent for contrast on elements that require your attention.
 
 ### Maple - Red
-![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/dev/imgs/maple.png)
+![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/imgs/maple.png)
 
 ### Aspen - Yellow
-![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/dev/imgs/aspen.png)
+![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/imgs/aspen.png)
 
 ### Eucalyptus - Teal
-![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/dev/imgs/eucalyptus.png)
+![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/imgs/eucalyptus.png)
 
 ### Jacaranda - Purple
-![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/dev/imgs/jacaranda.png)
+![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/imgs/jacaranda.png)
 
 
 ## Version Disclaimer
