@@ -18,15 +18,19 @@ Nevergrove comes in four variants, each centered around a main accent and a seco
 
 ### Maple - Red
 ![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/_public/imgs/vscode/maple.png)
+![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/_public/imgs/vscode/maple-light.png)
 
 ### Aspen - Yellow
 ![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/_public/imgs/vscode/aspen.png)
+![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/_public/imgs/vscode/aspen-light.png)
 
 ### Eucalyptus - Teal
 ![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/_public/imgs/vscode/eucalyptus.png)
+![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/_public/imgs/vscode/eucalyptus-light.png)
 
 ### Jacaranda - Purple
 ![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/_public/imgs/vscode/jacaranda.png)
+![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/_public/imgs/vscode/jacaranda-light.png)
 
 
 ## Version Disclaimer
