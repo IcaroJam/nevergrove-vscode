@@ -2,7 +2,7 @@
 	"name": "nevergrove",
 	"displayName": "Nevergrove",
 	"description": "Soft yet vibrant colors inspired by nature.",
-	"version": "0.0.5",
+	"version": "0.0.6",
 	"publisher": "Nafnec",
 	"author": {
 		"name": "Nafnec",
@@ -57,6 +57,26 @@
 				"label": "Nevergrove Maple",
 				"uiTheme": "vs-dark",
 				"path": "./themes/nevergrove-maple-color-theme.json"
+			},
+			{
+				"label": "Nevergrove Aspen Light",
+				"uiTheme": "vs",
+				"path": "./themes/nevergrove-aspen-light-color-theme.json"
+			},
+			{
+				"label": "Nevergrove Eucalyptus Light",
+				"uiTheme": "vs",
+				"path": "./themes/nevergrove-eucalyptus-light-color-theme.json"
+			},
+			{
+				"label": "Nevergrove Jacaranda Light",
+				"uiTheme": "vs",
+				"path": "./themes/nevergrove-jacaranda-light-color-theme.json"
+			},
+			{
+				"label": "Nevergrove Maple Light",
+				"uiTheme": "vs",
+				"path": "./themes/nevergrove-maple-light-color-theme.json"
 			}
 		]
 	}

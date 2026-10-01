@@ -25,7 +25,7 @@ Nevergrove comes in four variants, each centered around a main accent and a seco
 ### Eucalyptus - Teal
 ![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/_public/imgs/vscode/eucalyptus.png)
 
-### Jacaranda - Pink
+### Jacaranda - Purple
 ![](https://raw.githubusercontent.com/IcaroJam/nevergrove/refs/heads/master/_public/imgs/vscode/jacaranda.png)
 
 
